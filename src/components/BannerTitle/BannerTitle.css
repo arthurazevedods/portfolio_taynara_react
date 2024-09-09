@@ -1,0 +1,13 @@
+.banner-title{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+.sub-infos{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+}

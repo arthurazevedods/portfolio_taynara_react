@@ -1,0 +1,13 @@
+section{
+    width: 100%;
+
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 75px;
+    width: 0 50px;
+    min-height: 100%;
+}

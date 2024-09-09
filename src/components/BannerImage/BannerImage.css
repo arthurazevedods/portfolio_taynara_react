@@ -1,0 +1,14 @@
+.banner-image {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 30rem;
+    height: 30rem;
+    overflow: hidden;
+    margin-left: auto;
+}
+
+.banner-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
